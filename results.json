@@ -1,0 +1,342 @@
+{
+  "tool": "sitemap-scout",
+  "generatedAt": "2026-10-03T12:26:33.527Z",
+  "node": "v24.21.0",
+  "sites": [
+    {
+      "site": "https://www.weworkremotely.com",
+      "sitemapUrl": "https://www.weworkremotely.com/sitemap.xml",
+      "sitemapUrls": 1261,
+      "matchedUrls": 557,
+      "pagesSampled": 12,
+      "pagesWithJsonLd": 12,
+      "indexFilesParsed": 0,
+      "pageSitemapsParsed": 1,
+      "skippedBeyondDepth": 0,
+      "typeHistogram": {
+        "JobPosting": 12
+      },
+      "errors": [],
+      "pages": [
+        {
+          "url": "https://weworkremotely.com/remote-jobs/ilogos-2d-artist-props-and-customization",
+          "status": 200,
+          "via": "curl",
+          "bytes": 95732,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1",
+          "status": 200,
+          "via": "curl",
+          "bytes": 100109,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-1",
+          "status": 200,
+          "via": "curl",
+          "bytes": 120726,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
+          "status": 200,
+          "via": "curl",
+          "bytes": 114272,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/icarus-digital-marketing-performance-creative-strategist-and-ai-producer",
+          "status": 200,
+          "via": "curl",
+          "bytes": 94874,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+          "status": 200,
+          "via": "curl",
+          "bytes": 112744,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/6sense-principal-technical-product-marketing-manager",
+          "status": 200,
+          "via": "curl",
+          "bytes": 110094,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/feedzai-global-solutions-consultant-identity",
+          "status": 200,
+          "via": "curl",
+          "bytes": 99148,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/talkspace-business-development-representative-consultant-relationships",
+          "status": 200,
+          "via": "curl",
+          "bytes": 121404,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/toptal-client-advisor",
+          "status": 200,
+          "via": "curl",
+          "bytes": 108004,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-texas",
+          "status": 200,
+          "via": "curl",
+          "bytes": 100465,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://weworkremotely.com/remote-jobs/talkspace-business-development-growth-associate-pharma",
+          "status": 200,
+          "via": "curl",
+          "bytes": 112550,
+          "hasJsonLd": true,
+          "blocks": 1,
+          "types": [
+            "JobPosting"
+          ],
+          "parseFailures": 0
+        }
+      ]
+    },
+    {
+      "site": "https://remoteok.com",
+      "sitemapUrl": "https://remoteok.com/sitemap.xml",
+      "sitemapUrls": 19895,
+      "matchedUrls": 19895,
+      "pagesSampled": 12,
+      "pagesWithJsonLd": 12,
+      "indexFilesParsed": 1,
+      "pageSitemapsParsed": 5,
+      "skippedBeyondDepth": 0,
+      "typeHistogram": {
+        "Organization": 12,
+        "Product": 12
+      },
+      "errors": [],
+      "pages": [
+        {
+          "url": "https://remoteok.com/hire-remotely",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 163834,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/remote-workers",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 163834,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/work-from-home-jobs",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 58241,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/digital-nomad-jobs",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 58936,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/highest-paid-remote-jobs",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 53608,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/most-popular-remote-jobs",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 53576,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/remote-startups",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 51950,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/remote-internships",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 58686,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/online-english-teacher-jobs",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 59359,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/online-teaching-jobs",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 58637,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/tags",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 53608,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        },
+        {
+          "url": "https://remoteok.com/faq",
+          "status": 200,
+          "via": "fetch",
+          "bytes": 36440,
+          "hasJsonLd": true,
+          "blocks": 2,
+          "types": [
+            "Organization",
+            "Product"
+          ],
+          "parseFailures": 0
+        }
+      ]
+    }
+  ]
+}

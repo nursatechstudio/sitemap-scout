@@ -1,0 +1,36 @@
+name: scout
+
+on:
+  push:
+    paths:
+      - scout.mjs
+      - sites.json
+      - .github/**
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Run Sitemap Scout
+        run: node scout.mjs --sites sites.json --out .
+
+      - name: Commit changed results
+        run: |
+          git config user.name "lead-kit[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results.json results.md
+          if git diff --cached --quiet; then
+            echo "No result changes to commit."
+          else
+            git commit -m "scout update $(date -u +%F)"
+            git push
+          fi

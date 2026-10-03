@@ -1,0 +1,13 @@
+[
+  {
+    "site": "https://www.weworkremotely.com",
+    "sitemap": "/sitemap.xml",
+    "maxPages": 12,
+    "include": "jobs"
+  },
+  {
+    "site": "https://remoteok.com",
+    "sitemap": "/sitemap.xml",
+    "maxPages": 12
+  }
+]

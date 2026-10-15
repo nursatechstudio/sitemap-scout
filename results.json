@@ -1,6 +1,6 @@
 {
   "tool": "sitemap-scout",
-  "generatedAt": "2026-10-14T07:28:52.967Z",
+  "generatedAt": "2026-10-15T07:28:13.972Z",
   "node": "v22.23.3",
   "sites": [
     {
@@ -43,7 +43,7 @@
           "url": "https://remoteok.com/hire-remotely",
           "status": 200,
           "via": "fetch",
-          "bytes": 163745,
+          "bytes": 163797,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -56,7 +56,7 @@
           "url": "https://remoteok.com/remote-workers",
           "status": 200,
           "via": "fetch",
-          "bytes": 163745,
+          "bytes": 163797,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -69,7 +69,7 @@
           "url": "https://remoteok.com/work-from-home-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58155,
+          "bytes": 58160,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -82,7 +82,7 @@
           "url": "https://remoteok.com/digital-nomad-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58823,
+          "bytes": 58855,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -95,7 +95,7 @@
           "url": "https://remoteok.com/highest-paid-remote-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 53583,
+          "bytes": 53495,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -134,7 +134,7 @@
           "url": "https://remoteok.com/remote-internships",
           "status": 200,
           "via": "fetch",
-          "bytes": 58781,
+          "bytes": 58813,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -147,7 +147,7 @@
           "url": "https://remoteok.com/online-english-teacher-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 59334,
+          "bytes": 59241,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -160,7 +160,7 @@
           "url": "https://remoteok.com/online-teaching-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58849,
+          "bytes": 58942,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -173,7 +173,7 @@
           "url": "https://remoteok.com/tags",
           "status": 200,
           "via": "fetch",
-          "bytes": 53583,
+          "bytes": 53615,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [

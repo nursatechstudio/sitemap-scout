@@ -1,6 +1,6 @@
 {
   "tool": "sitemap-scout",
-  "generatedAt": "2026-10-19T07:36:07.470Z",
+  "generatedAt": "2026-10-20T07:29:17.543Z",
   "node": "v22.23.3",
   "sites": [
     {
@@ -43,7 +43,7 @@
           "url": "https://remoteok.com/hire-remotely",
           "status": 200,
           "via": "fetch",
-          "bytes": 163753,
+          "bytes": 163754,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -56,7 +56,7 @@
           "url": "https://remoteok.com/remote-workers",
           "status": 200,
           "via": "fetch",
-          "bytes": 163753,
+          "bytes": 163754,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -69,7 +69,7 @@
           "url": "https://remoteok.com/work-from-home-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58155,
+          "bytes": 58248,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -82,7 +82,7 @@
           "url": "https://remoteok.com/digital-nomad-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58617,
+          "bytes": 58713,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -108,7 +108,7 @@
           "url": "https://remoteok.com/most-popular-remote-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 53615,
+          "bytes": 53583,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -121,7 +121,7 @@
           "url": "https://remoteok.com/remote-startups",
           "status": 200,
           "via": "fetch",
-          "bytes": 51928,
+          "bytes": 51957,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -160,7 +160,7 @@
           "url": "https://remoteok.com/online-teaching-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58827,
+          "bytes": 58856,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [

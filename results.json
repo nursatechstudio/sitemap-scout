@@ -1,7 +1,7 @@
 {
   "tool": "sitemap-scout",
-  "generatedAt": "2026-10-28T07:43:33.667Z",
-  "node": "v22.23.3",
+  "generatedAt": "2026-10-29T07:46:31.020Z",
+  "node": "v22.23.4",
   "sites": [
     {
       "site": "https://www.weworkremotely.com",
@@ -69,7 +69,7 @@
           "url": "https://remoteok.com/work-from-home-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58236,
+          "bytes": 58143,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -82,7 +82,7 @@
           "url": "https://remoteok.com/digital-nomad-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58917,
+          "bytes": 58885,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -121,7 +121,7 @@
           "url": "https://remoteok.com/remote-startups",
           "status": 200,
           "via": "fetch",
-          "bytes": 51915,
+          "bytes": 51851,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -134,7 +134,7 @@
           "url": "https://remoteok.com/remote-internships",
           "status": 200,
           "via": "fetch",
-          "bytes": 58801,
+          "bytes": 58740,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [

@@ -1,13 +1,13 @@
 # Sitemap Scout Results
 
-Generated: 2026-11-09T16:55:58.034Z
+Generated: 2026-11-10T15:16:37.398Z
 
 ## Overview
 
 | Site | Sitemap URLs | Sampled | With JSON-LD | Top types |
 | --- | ---: | ---: | ---: | --- |
 | https://www.weworkremotely.com | 0 | 0 | 0 | - |
-| https://remoteok.com | 19895 | 12 | 12 | Organization (12), Product (12) |
+| https://remoteok.com | 19901 | 12 | 12 | Organization (12), Product (12) |
 
 ## https://www.weworkremotely.com
 
@@ -28,8 +28,8 @@ Generated: 2026-11-09T16:55:58.034Z
 ## https://remoteok.com
 
 - Sitemap: `https://remoteok.com/sitemap.xml`
-- Sitemap URLs found: 19895
-- URLs after include filter: 19895
+- Sitemap URLs found: 19901
+- URLs after include filter: 19901
 - Pages sampled: 12
 - Pages with JSON-LD: 12
 - Sitemap index files parsed: 1

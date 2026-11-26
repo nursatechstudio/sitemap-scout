@@ -1,6 +1,6 @@
 {
   "tool": "sitemap-scout",
-  "generatedAt": "2026-11-25T17:40:19.838Z",
+  "generatedAt": "2026-11-26T17:23:05.232Z",
   "node": "v22.23.5",
   "sites": [
     {
@@ -69,7 +69,7 @@
           "url": "https://remoteok.com/work-from-home-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58213,
+          "bytes": 58208,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -82,7 +82,7 @@
           "url": "https://remoteok.com/digital-nomad-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58775,
+          "bytes": 58767,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -95,7 +95,7 @@
           "url": "https://remoteok.com/highest-paid-remote-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 53580,
+          "bytes": 53543,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -121,7 +121,7 @@
           "url": "https://remoteok.com/remote-startups",
           "status": 200,
           "via": "fetch",
-          "bytes": 51877,
+          "bytes": 51901,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -134,7 +134,7 @@
           "url": "https://remoteok.com/remote-internships",
           "status": 200,
           "via": "fetch",
-          "bytes": 58877,
+          "bytes": 58784,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -147,7 +147,7 @@
           "url": "https://remoteok.com/online-english-teacher-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58732,
+          "bytes": 58759,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -160,7 +160,7 @@
           "url": "https://remoteok.com/online-teaching-jobs",
           "status": 200,
           "via": "fetch",
-          "bytes": 58668,
+          "bytes": 58756,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
@@ -173,7 +173,7 @@
           "url": "https://remoteok.com/tags",
           "status": 200,
           "via": "fetch",
-          "bytes": 53519,
+          "bytes": 53543,
           "hasJsonLd": true,
           "blocks": 2,
           "types": [
